@@ -4,6 +4,6 @@ Hello, world
 
 Good morning!
 
-Good night?!!?
+Good night?..?
 
 Good evening.
